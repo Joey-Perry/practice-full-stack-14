@@ -1,0 +1,16 @@
+.nav-bar {
+    border: 2px solid black;
+    width: 25%;
+    height: 100vh;
+    position: relative;
+}
+
+.nav-bar-links {
+    list-style: none;
+}
+
+.nav-bar-links li {
+    position: relative;
+    margin: 10px 0px;
+    left: -15px;
+}
